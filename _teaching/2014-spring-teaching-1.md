@@ -2,16 +2,14 @@
 title: " "
 collection: teaching
 type: "Workshop"
-# permalink: # /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
 
 
-09/2024 – 12/2024; 
-
-Co-instructor of EEOB566 - Molecular Evolution, Iowa State University
+09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University
 
 Co-teaching and leading the paper discussions in the Molecular Evolution class for post-graduate students at Iowa State University with Prof. Wendel.
 
