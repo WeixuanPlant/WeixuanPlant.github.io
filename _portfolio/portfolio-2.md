@@ -1,6 +1,6 @@
 ---
 title: "Polyploidization and Species Diversification"
-excerpt: "This project explores how polyploidization contributes to species diversification in New Zealand’s unique flora, using Azorella as a model system. By integrating genomic data with ecological context, it examines how genome duplication shapes genetic diversity, adaptation, and speciation across alpine environments.<br/><img src='/images/Ning_APPS_Fig1.pptx.png' width='500' height='500'>"
+excerpt: "This project explores how polyploidization contributes to species diversification in New Zealand’s unique flora, using Azorella as a model system. By integrating genomic data with ecological context, it examines how genome duplication shapes genetic diversity, adaptation, and speciation across alpine environments.<br/><img src='/images/Ning_APPS_Fig1.png' width='500' height='500'>"
 collection: portfolio
 ---
 
