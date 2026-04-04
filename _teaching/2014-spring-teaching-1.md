@@ -10,7 +10,7 @@ location: "City, Country"
 
 
 ### 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University
-======
+
 Co-teaching and leading the paper discussions in the Molecular Evolution class for post-graduate students at Iowa State University with Prof. Wendel.
 
 08/2021 – 04/2022; Tate Lab, Massey University
