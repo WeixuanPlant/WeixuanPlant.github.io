@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! I am an evolutionary biologist! I graduated from xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+I am **Weixuan Ning**, a plant biologist and population geneticist with a passion for understanding the evolution and conservation of crop and wild plant species. My research combines field studies, genomics, and computational analyses to uncover the genetic diversity, population structure, and evolutionary history of plants, with a particular focus on cotton and other fiber crops. I aim to bridge fundamental evolutionary biology with practical applications for conservation and sustainable agriculture.
 
-Weixuan's Research Site
-======
-take a look at the links above to learn more about me.
-
-Weixuan's Research Site
-======
-take a look at the links above to learn more about me.
+Over the past decade, I have conducted research across multiple continents, contributing to numerous publications in high-impact journals. My work spans population genomics, domestication studies, and conservation genetics, providing insights into how wild and cultivated plant populations adapt, diversify, and persist. I am also engaged in mentoring students, collaborating on open-source academic projects, and sharing knowledge through talks, workshops, and online platforms.
