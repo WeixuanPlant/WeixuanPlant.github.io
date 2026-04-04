@@ -13,7 +13,7 @@ location: "City, Country"
 
 Co-teaching and leading the paper discussions in the Molecular Evolution class for post-graduate students at Iowa State University with Prof. Wendel.
 
-08/2021 – 04/2022; Tate Lab, Massey University
+### 08/2021 – 04/2022; Tate Lab, Massey University
 Mentoring fellow lab members to perform genomic library construction and hybridization reactions with predesigned biotinylated probes. Assisting with their experimental design.
 
 Semester 2, 2019 & Semester 2, 2021; Lab demonstrator, Plant Biology, Massey University
