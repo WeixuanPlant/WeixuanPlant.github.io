@@ -1,5 +1,5 @@
 ---
-title: # "Population genomics informs conservation strategies for critically endangered <i>Kokia</i> species in Hawaiʻi"
+title: "Population genomics informs conservation strategies for critically endangered <i>Kokia</i> species in Hawaiʻi"
 collection: publications
 category: manuscripts
 date: # 2026-04-01
