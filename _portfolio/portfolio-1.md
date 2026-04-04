@@ -1,6 +1,6 @@
 ---
 title: "Wild cotton divesity"
-excerpt: "Short description of portfolio item number 1<br/><img src='/wildcotton.png/300x500.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/wildcotton.png'>"
 collection: portfolio
 ---
 
