@@ -1,6 +1,6 @@
 ---
 title: "New Zealand Polyploid Genus Azorella"
-excerpt: "This project explores how polyploidization contributes to species diversification in New Zealand’s unique flora, using Azorella as a model system. By integrating genomic data with ecological context, it examines how genome duplication shapes genetic diversity, adaptation, and speciation across alpine environments.<br/><img src='/images/Figure_1_Azorella_Leaf_NoBackground_02062024.png' width='500' height='500'>"
+excerpt: "This project explores how polyploidization contributes to species diversification in New Zealand’s unique flora, using Azorella as a model system. By integrating genomic data with ecological context, it examines how genome duplication shapes genetic diversity, adaptation, and speciation across alpine environments.<br/><img src='/images/Azorella_Leaf_NoBackground_20062023.png' width='700' height='700'>"
 collection: portfolio
 ---
 
