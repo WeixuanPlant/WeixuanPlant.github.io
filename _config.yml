@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Weixuan Ning"
 title_separator          : "-"
 name                     : &name "Weixuan Ning"
 description              : &description "Weixuan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Weixuan Ning"
-  pronouns         : "he/him"  
+  pronouns         : "He/Him"  
   bio              : "Plant evolutionary biologist"
   location         : "Ames, IA"
   employer         : "Iowa State University"
