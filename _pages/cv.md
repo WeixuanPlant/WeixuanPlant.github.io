@@ -17,7 +17,7 @@ Education
 
 <p>
   <a href="/files/03_Weixuan_CV2026.pdf" target="_blank">
-    Download April 2026 CV (PDF)
+    CV April 2026 Download (PDF)
   </a>
 </p>
 
