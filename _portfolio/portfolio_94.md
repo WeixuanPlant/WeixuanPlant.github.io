@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/Ning_APPS_Fig1.png' width='500'>
+<img src='/images/oulu.png' width='500'>
 
 ## Background
 
