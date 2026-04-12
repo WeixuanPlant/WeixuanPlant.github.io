@@ -5,8 +5,10 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/Cologne.png' width='500'>
+<img src='/images/Cologne.png' width='700'>
 
+### Background
+*Arabidopsis thaliana* exhibits exceptionally high genetic diversity in African populations and shows strong environmental adaptability across a wide ecological range, spanning elevations from ~100 m to 4000 m and diverse habitats. This broad distribution provides an excellent system for studying how genetic variation contributes to local adaptation across contrasting environmental gradients.
 
 ### Aims
 - Phenotypic traits are correlated with high-altitude adaptation  
