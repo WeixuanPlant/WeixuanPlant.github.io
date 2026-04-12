@@ -7,7 +7,7 @@ collection: portfolio
 <br/>
 <img src='/images/Azorella_Leaf_NoBackground_20062023.png' width='700'>
 
-## Background
+### Background
 
 Polyploidy—whole genome duplication—is a major evolutionary force in plants that generates novel genetic diversity and promotes adaptation, speciation, and long-term evolutionary innovation. Following polyploidization, duplicated genomic content provides additional opportunities for diversification, and polyploid-rich genera (lineages containing closely related species at different ploidy levels) serve as powerful systems for studying post-polyploidization macroevolutionary processes. In New Zealand, *Azorella* section *Schizeilema* represents an exceptional system for investigating these dynamics. It comprises 14 described polyploid taxa (species, subspecies, and varieties) exhibiting three ploidy levels (4x, 6x, and 10x), alongside diverse leaf morphologies and distinct distributional ranges. These features suggest a complex evolutionary history involving polyploidization, hybridization, and ecological diversification. 
 
@@ -15,7 +15,7 @@ Previous work indicates that New Zealand *Azorella* likely originated from multi
 
 To address these gaps, phylogenomic approaches combining long-read Hyb-Seq data and comparative trait analyses provide a framework to link genome evolution, morphology, and ecological divergence in a unified evolutionary context.
 
-## Aims
+### Aims
 
 This project aims to:
 
@@ -23,3 +23,8 @@ This project aims to:
 - Can Hyb-Seq method combine with long-read sequencing (e.g., PacBio) to enhance the resolution and recovery of homeologous copies in polyploid taxa
 - Investigate the evolution of polyploid-associated traits, including monoploid (1Cx) and holoploid (2C) genome size, stomatal guard cell length, and homeolog copy number variation  
 - Examine ecological divergence among taxa using environmental niche modelling (ENM) and ENMtools, testing for niche conservatism, niche shift, niche novelty, and niche contraction  
+
+
+### Output
+
+[**Ning, W.**, Meudt, H. M., Nicolas, A. N., Plunkett, G. M., Heenan, P. B., Lee, W. G., & Tate, J. A. (2025). Resolving reticulate evolutionary histories of polyploid species of *Azorella* (Apiaceae) endemic to New Zealand. Molecular Phylogenetics and Evolution, 108469.](https://www.sciencedirect.com/science/article/pii/S1055790325001861?casa_token=KStX2YdMynoAAAAA:LaaV561sK27Bj3icVf_b0GuCQG0nu-uuy0XRO4V4l8jSziqKtG_D_llimsurVxlV_RtP8RuTKAnH)
