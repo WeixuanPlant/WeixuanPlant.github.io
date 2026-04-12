@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <br/>
-<img src='/images/oulu.png' width='500'>
+<img src='/images/oulu.png' width='700'>
 
 ## Background
 
