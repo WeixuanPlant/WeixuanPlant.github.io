@@ -1,6 +1,6 @@
 ---
 title: "Genomic conservation of *Aquilaria sinensis* in Hong Kong"
-excerpt: "Investigating the genetic diversity of wild *Aquilaria sinensis* (incense Tree) in Hong Kong using genome resequencing data."
+excerpt: "*Aquilaria sinensis* (incense tree) is known for producing agarwood, a highly valuable fragrant resinous heartwood that forms when the tree is wounded or infected, and is widely used in incense, perfumes, and traditional medicine. This high commercial value has led to intense illegal harvesting, alongside habitat loss and long-term overexploitation, making the species endangered in the wild. Using genome resequencing data, this project investigates the genetic diversity of wild _A. sinensis_ populations in Hong Kong, aiming to resolve population structure, assess genetic variation, and inform conservation strategies for this protected species."
 collection: portfolio
 ---
 
