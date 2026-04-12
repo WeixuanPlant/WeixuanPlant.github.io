@@ -8,11 +8,11 @@ date: 2015-01-01 to 2015-01-02
 location: "Ames, IA, USA"
 ---
 
-Co-teaching and leading paper discussions with Prof. Wendel.
 
 
 
-### 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University  
+## 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University  
+### Co-teaching and leading paper discussions with Prof. Wendel.
 
 ### 08/2021 – 04/2022; Tate Lab, Massey University  
 Mentored genomic library construction and hybridization work.
