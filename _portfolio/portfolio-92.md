@@ -15,6 +15,9 @@ Previous work indicates that New Zealand *Azorella* likely originated from multi
 
 To address these gaps, phylogenomic approaches combining long-read Hyb-Seq data and comparative trait analyses provide a framework to link genome evolution, morphology, and ecological divergence in a unified evolutionary context.
 
+<br/>
+<img src='/images/Ning_APPS_Fig1.png' width='500'>
+
 ### Aims
 
 This project aims to:
