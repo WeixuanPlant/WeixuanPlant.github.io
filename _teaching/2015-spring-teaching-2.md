@@ -4,7 +4,7 @@ collection: teaching
 type: # "Postgraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: # "University 1, Department"
-date:  2015-01-01
+date: # 2015-01-01
 location: # "City, Country"
 ---
 
