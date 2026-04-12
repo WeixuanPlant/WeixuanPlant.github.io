@@ -1,5 +1,5 @@
 ---
-title: "Wild Cotton Divesity"
+title: "Diversity in Wild Cotton Populations"
 excerpt: "Exploring the genetic diversity of wild cotton (*Gossypium hirsutum*) populations, this project aims to characterize the true distribution of wild cotton, resolve genetic relationships between wild and domesticated forms, and infer domestication history. It also evaluates the potential of wild genetic resources for sustainable crop improvement. Combining fieldwork with genomic analyses, this work highlights cotton in its natural habitat and the insights it provides for both conservation and agriculture."
 collection: portfolio
 ---
