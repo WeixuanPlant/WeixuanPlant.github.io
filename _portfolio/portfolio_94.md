@@ -22,4 +22,5 @@ Local adaptation arises when populations experience different environmental cond
 ### Output
 
 [**Ning, W.** (2018). Transcriptome comparison of altitudinally adapted *Arabidopsis lyrata* populations (Master's thesis, W. Ning).](https://oulurepo.oulu.fi/handle/10024/11062)
+
 [Hämälä, T., **Ning, W.**, Kuittinen, H., Aryamanesh, N., & Savolainen, O. (2022). Environmental response in gene expression and DNA methylation reveals factors influencing the adaptive potential of *Arabidopsis lyrata*. ELife, 11, e83115.](https://elifesciences.org/articles/83115)
