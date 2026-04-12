@@ -1,8 +1,8 @@
 ---
-title: "Postgraduate course1"
+title: "Postgraduate course"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Postgraduate course"
+permalink: /teaching/2015-spring-teaching-2
 venue: # "University 1, Department"
 date:  2015-01-01
 location: # "City, Country"
