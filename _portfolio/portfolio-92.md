@@ -26,6 +26,7 @@ This project aims to:
 
 
 ### Output
+[**Ning, W.**, Meudt, H. M., & Tate, J. A. (2024). A roadmap of phylogenomic methods for studying polyploid plant genera. Applications in Plant Sciences, 12(4), e11580.](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11580)
 
 [**Ning, W.**, Meudt, H. M., Nicolas, A. N., Plunkett, G. M., Heenan, P. B., Lee, W. G., & Tate, J. A. (2025). Resolving reticulate evolutionary histories of polyploid species of *Azorella* (Apiaceae) endemic to New Zealand. Molecular Phylogenetics and Evolution, 108469.](https://www.sciencedirect.com/science/article/pii/S1055790325001861?casa_token=KStX2YdMynoAAAAA:LaaV561sK27Bj3icVf_b0GuCQG0nu-uuy0XRO4V4l8jSziqKtG_D_llimsurVxlV_RtP8RuTKAnH)
 
