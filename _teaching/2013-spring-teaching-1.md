@@ -8,13 +8,22 @@ date: 2013-01-01
 location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A list of students I have mentored and supported during my research activities.
 
-Heading 1
-======
+*[Tate Lab, Massey University](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=576930)*  
+**Aug 2021 – Apr 2022** 
+- Mentored PhD students and lab members in genomic library construction and hybridization using predesigned biotinylated probes  
+- Assisted with experimental design and troubleshooting of molecular workflows  
+Referees: S. Newmarch; S. Person; P Joshi
 
-Heading 2
-======
+*The University of Hong Kong (HKU)*  
+**04/2023 – 10/2023** 
+- Delivered instruction on DNA extraction pipelines, bioinformatic analyses, and phylogenetic tree reconstruction  
+- Taught both undergraduate and PhD students through hands-on training and workshops
+Referees: F. Uva; S. T. Tam
 
-Heading 3
-======
+*[Wendel Lab, Iowa State University](https://faculty.sites.iastate.edu/jfw/)*  
+**01/2024 – 04/2026** 
+- Provided constructive feedback on PhD students presentations
+- Assisted in designing and implementing bioinformatics pipelines
+Referees: G. Premarathne; O. J. Amaechi
