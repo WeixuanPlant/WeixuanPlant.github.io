@@ -11,7 +11,7 @@ location: # "City, Country"
 A list of undergraduate courses I have taught or contributed to as a guest lecturer at different universities.
 
 ---
-### Guest lecturer, [BIOL 1010: Introductory Biology  ](https://catalog.iastate.edu/azcourses/biol/)
+### Guest lecturer, [EEOB 5460: Computational Skills for Biological Data](https://catalog.iastate.edu/azcourses/eeob/)
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
 Semester 18, 2025  
 <img src="/images/eeobteach.jpg" width="500">
@@ -21,8 +21,7 @@ Semester 18, 2025
 ---
 ### Co-Instructor, [EEOB 566 – Molecular Evolution](https://catalog.iastate.edu/previouscatalogs/2022-2023/azcourses/eeob/)
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
-Sep 2024 – Dec 2024
-[Download syllabus (PDF)](/files/EEOB566_syllabus.pdf)
+Sep 2024 – Dec 2024; [Download syllabus (PDF)](/files/Syllabus_2024.pdf)  
 
 - Co-taught a graduate-level seminar/discussion course on gene and genome evolution  
 - Led paper discussions and facilitated student engagement with current literature in evolutionary genomics  
