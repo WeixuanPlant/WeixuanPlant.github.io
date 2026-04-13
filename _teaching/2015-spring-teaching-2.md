@@ -8,8 +8,6 @@ date:  2015-01-01
 location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 
 
 ### 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University  
