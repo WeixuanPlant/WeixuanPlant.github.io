@@ -8,7 +8,7 @@ date:  2015-01-01
 location: # "City, Country"
 ---
 
-A list of undergraduate courses I have taught or contributed to as a guest lecturer at different universities.
+A list of postgraduate courses I have taught or contributed to as a guest lecturer at different universities.
 
 ---
 ### Guest lecturer, [EEOB 5460: Computational Skills for Biological Data](https://catalog.iastate.edu/azcourses/eeob/)
