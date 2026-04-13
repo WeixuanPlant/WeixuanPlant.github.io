@@ -14,4 +14,4 @@ Agarwood-producing species of *Aquilaria*, commonly known as incense trees, are 
 - Comparison of DNA extraction efficiency and quality from leaf, bark, and fruit tissues  
 - Resolution of genetic relationships among field-collected *Aquilaria sinensis* populations in Hong Kong  
 - Development of conservation strategies for *Aquilaria sinensis* in Hong Kong based on genetic data  
-- Assisted Hong Kong police officers by providing DNA evidence for an illegal poaching case
+- [Assisted Hong Kong police officers by providing DNA evidence for an illegal poaching case](https://www.scifac.hku.hk/news/dismantle-illegal-agarwood-trafficking-gang)
