@@ -15,9 +15,8 @@ A list of undergraduate courses I have taught or contributed to as a guest lectu
 ### Guest lecturer, [BIOL 1010: Introductory Biology  ](https://catalog.iastate.edu/azcourses/biol/)
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
 Semester 18, 2025
-<br>
+
 <img src="/images/eeobteach.jpg" width="500">
-<br>
 
 - This lecture covered the diversification of early animal lineages, including sponges, cnidarians, and corals, with emphasis on their classification and habitat diversity.     
 
