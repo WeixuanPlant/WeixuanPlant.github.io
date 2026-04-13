@@ -13,11 +13,14 @@ A list of undergraduate courses I have taught or contributed to as a guest lectu
 ---
 ### Guest lecturer, [EEOB 5460: Computational Skills for Biological Data](https://catalog.iastate.edu/azcourses/eeob/)
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
-Semester 18, 2025  
-<img src="/images/eeobteach.jpg" width="500">
+April 10, 2025  
+<img src="/images/bioinformaticcourse.jpg" width="500">
 
-- This lecture covered the diversification of early animal lineages, including sponges, cnidarians, and corals, with emphasis on their classification and habitat diversity.     
-
+- Delivered a hands-on computational lecture focused on Python-based biological data analysis  
+- Introduced data manipulation using the Pandas package for handling structured biological datasets  
+- Demonstrated parsing and analysis of genomic annotation files (GFF3 format)  
+- Taught data visualization techniques using Seaborn for exploratory analysis of biological data
+  
 ---
 ### Co-Instructor, [EEOB 566 – Molecular Evolution](https://catalog.iastate.edu/previouscatalogs/2022-2023/azcourses/eeob/)
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
