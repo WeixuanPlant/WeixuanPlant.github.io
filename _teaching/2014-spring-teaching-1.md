@@ -15,13 +15,7 @@ A list of undergraduate courses I have taught or contributed to as a guest lectu
 *Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
 Semester 18, 2025
 
-
-
-- Taught undergraduate students correct pipettor and microscope usage  
-- Assisted with designing serial dilutions and quantitative calculations  
-- Prepared leaf epidermal peels and mitotic squashes for teaching demonstrations  
-- Demonstrated aseptic technique for bacterial plating  
-- Marked laboratory assignments
+<img src="/images/eeobteaching.jpg" alt="BIOL 1010 Guest Lecture" width="500">
 
 ---
 
