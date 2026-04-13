@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate course1"
+title: "Undergraduate course"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,6 @@ date:  2014-01-01
 location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 ### 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University  
 ======
