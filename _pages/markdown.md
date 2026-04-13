@@ -1,7 +1,7 @@
 ---
-permalink: /markdown/
+permalink: # /markdown/
 title: # "Markdown"
-author_profile: true
+author_profile:  true
 ---
 
 
