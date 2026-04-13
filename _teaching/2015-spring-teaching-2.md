@@ -19,23 +19,16 @@ Semester 18, 2025
 - This lecture covered the diversification of early animal lineages, including sponges, cnidarians, and corals, with emphasis on their classification and habitat diversity.     
 
 ---
+### Co-Instructor, [EEOB 566 – Molecular Evolution](https://catalog.iastate.edu/previouscatalogs/2022-2023/azcourses/eeob/)
+*Dept. Ecology, Evolution, and Organismal Biology, Iowa State University*  
+Sep 2024 – Dec 2024
+[Download syllabus (PDF)](/files/EEOB566_syllabus.pdf)
 
-### Lab Demonstrator, [Biology of Cells](https://www.massey.ac.nz/study/courses/cell-biology-162101/)
-*School of Foundation Natural Sciences, Massey University*  
-Semester 1, 2019 & Semester 1, 2022  
-- Taught undergraduate students correct pipettor and microscope usage  
-- Assisted with designing serial dilutions and quantitative calculations  
-- Prepared leaf epidermal peels and mitotic squashes for teaching demonstrations  
-- Demonstrated aseptic technique for bacterial plating  
-- Marked laboratory assignments
-
----
-
-### Lab Demonstrator, [Plant Biology](https://www.massey.ac.nz/study/courses/plant-biology-120101/)  
-*School of Foundation Natural Sciences, Massey University*  
-Semester 2, 2019 & Semester 2, 2021  
-- Taught undergraduate students microscopy usage and identification of plant anatomical and morphological structures  
-- Assisted students with experimental design for plant physiology studies  
-- Marked laboratory assignments and tests  
-
----
+- Co-taught a graduate-level seminar/discussion course on gene and genome evolution  
+- Led paper discussions and facilitated student engagement with current literature in evolutionary genomics  
+- Guided exploration of core mechanisms of molecular evolution, including mutation, genetic drift, and natural selection  
+- Covered topics spanning nucleotide-level processes to large-scale genome evolution and structural genomic change  
+- Supported students in synthesizing current research literature and developing critical discussion skills in molecular evolution  
+- Mentored students in preparing mini-lectures and review-style syntheses of specialized topics in genome evolution  
+- Collaborated with Prof. Wendel in course organization, discussion facilitation, and academic content delivery  
+- Emphasized interpretation of cutting-edge findings in evolutionary genomics and their biological significance  
