@@ -10,6 +10,6 @@ author_profile:  true
 
 
 ### Adventure in New Zealand!
-https://blog.tepapa.govt.nz/2024/05/02/another-phd-student-flies-the-nest/
+https://blog.tepapa.govt.nz/2024/05/02/another-phd-student-flies-the-nest/  
 
-https://blog.tepapa.govt.nz/2020/08/17/botanical-field-work-with-students/
+https://blog.tepapa.govt.nz/2020/08/17/botanical-field-work-with-students/  
