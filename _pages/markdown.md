@@ -7,8 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-{# {% include toc %} #}
 
 ## Let's leave this space here for now until I find something fun to add about myself.
 
-
+<img src="/images/flower.jpg" width="700">
