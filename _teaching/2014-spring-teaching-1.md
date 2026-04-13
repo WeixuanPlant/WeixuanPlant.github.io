@@ -26,7 +26,6 @@ Semester 18, 2025
 ### Lab Demonstrator, [Biology of Cells](https://www.massey.ac.nz/study/courses/cell-biology-162101/)
 *School of Foundation Natural Sciences, Massey University*  
 Semester 1, 2019 & Semester 1, 2022  
-
 - Taught undergraduate students correct pipettor and microscope usage  
 - Assisted with designing serial dilutions and quantitative calculations  
 - Prepared leaf epidermal peels and mitotic squashes for teaching demonstrations  
@@ -38,7 +37,6 @@ Semester 1, 2019 & Semester 1, 2022
 ### Lab Demonstrator, [Plant Biology](https://www.massey.ac.nz/study/courses/plant-biology-120101/)  
 *School of Foundation Natural Sciences, Massey University*  
 Semester 2, 2019 & Semester 2, 2021  
-
 - Taught undergraduate students microscopy usage and identification of plant anatomical and morphological structures  
 - Assisted students with experimental design for plant physiology studies  
 - Marked laboratory assignments and tests  
