@@ -11,11 +11,11 @@ location: # "City, Country"
 A list of students I have mentored and supported during my research activities.
 
 ---
-*[Tate Lab, Massey University](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=576930)*  
-Aug 2021 – Apr 2022
-- Mentored PhD students and lab members in genomic library construction and hybridization using predesigned biotinylated probes  
-- Assisted with experimental design and troubleshooting of molecular workflows  
-**Referees: S. Newmarch; S. Person; P Joshi**
+*[Wendel Lab, Iowa State University](https://faculty.sites.iastate.edu/jfw/)*  
+01/2024 – 04/2026
+- Provided constructive feedback on PhD students presentations
+- Assisted in designing and implementing bioinformatics pipelines  
+**Referees: G. Premarathne; O. J. Amaechi**
 
 ---
 *The University of Hong Kong (HKU)*  
@@ -25,8 +25,8 @@ Aug 2021 – Apr 2022
 **Referees: F. Uva; S. T. Tam**
 
 ---
-*[Wendel Lab, Iowa State University](https://faculty.sites.iastate.edu/jfw/)*  
-01/2024 – 04/2026
-- Provided constructive feedback on PhD students presentations
-- Assisted in designing and implementing bioinformatics pipelines  
-**Referees: G. Premarathne; O. J. Amaechi**
+*[Tate Lab, Massey University](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=576930)*  
+Aug 2021 – Apr 2022
+- Mentored PhD students and lab members in genomic library construction and hybridization using predesigned biotinylated probes  
+- Assisted with experimental design and troubleshooting of molecular workflows  
+**Referees: S. Newmarch; S. Person; P Joshi**
