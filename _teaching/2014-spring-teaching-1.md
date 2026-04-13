@@ -8,6 +8,8 @@ date:  2014-01-01
 location: # "City, Country"
 ---
 
+A list of undergraduate courses I have taught or contributed to as a guest lecturer at different universities.
+
 
 ### 09/2024 – 12/2024; Co-instructor of EEOB566 - Molecular Evolution, Iowa State University  
 ====== 
