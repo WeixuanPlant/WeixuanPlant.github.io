@@ -24,8 +24,6 @@ This project aims to:
 - Investigate the evolution of polyploid-associated traits, including monoploid (1Cx) and holoploid (2C) genome size, stomatal guard cell length, and homeolog copy number variation  
 - Examine ecological divergence among taxa using environmental niche modelling (ENM) and ENMtools, testing for niche conservatism, niche shift, niche novelty, and niche contraction  
 
-<br/>
-<img src='/images/Ning_APPS_Fig1.png' width='500'>
 
 ### Output
 [**Ning, W.**, Meudt, H. M., & Tate, J. A. (2024). A roadmap of phylogenomic methods for studying polyploid plant genera. Applications in Plant Sciences, 12(4), e11580.](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/aps3.11580)
