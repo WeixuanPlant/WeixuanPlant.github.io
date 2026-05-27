@@ -16,6 +16,8 @@ Wild cotton today is a relatively uncommon plant, this rarity resulting from bot
 - Can we identify the domestication and diversity center of wild cotton?
 
 ### Output
+[**Ning, W.**, Arick, M. A., Udall, J. A., Hsu, C. Y., Abdala-Roberts, L., Solís-Rodríguez, U., ... & Wendel, J. F. (2026). Genomic diversity and the domestication history of cotton (Gossypium hirsutum). Proceedings of the National Academy of Sciences, 123(21), e2607107123.
+](https://www.pnas.org/doi/abs/10.1073/pnas.2607107123) 
 
 [**Ning, W.**, Rogers, K. M., Hsu, C. Y., Magbanua, Z. V., Pechanova, O., Arick, M. A., ... & Wendel, J. F. (2024). Origin and diversity of the wild cottons (*Gossypium hirsutum*) of Mound Key, Florida. Scientific Reports, 14(1), 14046.
 ](https://www.nature.com/articles/s41598-024-64887-8) [Behind the Paper](https://communities.springernature.com/posts/discovery-of-genetic-diversity-left-behind-by-the-bottleneck-of-cotton-domestication)
