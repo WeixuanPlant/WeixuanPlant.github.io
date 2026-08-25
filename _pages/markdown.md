@@ -8,6 +8,7 @@ author_profile:  true
 
 <img src="/images/flower.jpg" width="700">
 
+<img src="/images/me.png" alt="Weixuan Ning" style="float:right; width:400px; margin: 0.5em 0.5em 0.5em 0.5em; border-radius:10px;"> 
 
 ### Adventure in New Zealand -- Related blogs from Dr Heidi Meudt!
 [Another PhD student flies the nest](https://blog.tepapa.govt.nz/2024/05/02/another-phd-student-flies-the-nest/)  
